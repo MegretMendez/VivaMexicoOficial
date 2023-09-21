@@ -11,7 +11,8 @@ Part 2: Create a Plane using the ProBuilder Tool
 
 Description: In the ProBuilder Window select "New Shape", and a Shape panel with advanced 3D shapes should appear. In this panel select the plane icon. Then with your mouse you can drag to create the plane to your desired measures. Change the "Height Cuts" and 'Width Cuts" to 2 in the Plane Settings. 
 
-Part 3: Mold the plane using ProBuilder Tool 
+Part 3: Mold the plane using ProBuilder Tool
+
 3.1 Modify base of our Pyramid
 ![ModifyPlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/db88454c-3770-4f4e-9746-903ea50369ed)
 
