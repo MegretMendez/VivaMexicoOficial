@@ -7,6 +7,7 @@ Part 1: Intro a ProBuilder
 Description: In the menu at the top of your screen select Tools->ProBuilder->ProBuilder Window. A pop up window should appear on your screen. This is the ProBuilder Window. The ProBuilder tool is useful for more detail-oriented editing.
 
 --- Pyramid Creation ---
+
 Part 2: Create a Plane using the ProBuilder Tool 
 ![CreatePlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4c0f476a-8317-4afd-8205-f13f4759a4ad)
 
