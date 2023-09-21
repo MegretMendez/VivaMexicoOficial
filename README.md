@@ -19,5 +19,14 @@ Description: To modify the base of our pyramid we are going to the second option
 Aftert completing all sides, your plane should look like this: 
 ![ModifyPlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4412aa22-5c11-49ea-ae76-105da5417271)
 
-3.2 Create Pyramid Stairs 
-3.3 
+3.2 Editing faces
+![ModifyPlane2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/cb655ec2-7a17-4bcb-b4cc-011b0a494239)
+
+Description: Now in the Probuilder menu at the top of the screen, we will select the las option, the Faces option. This option allows us to individually or simultaneously edit the faces of our plane. While pressing Command + D at the same time select all of the borders of the plane and select "Extrude Faces" in the ProBuilder Window. This enlarges the entire plane. Using the scale tool you can change the height of the plane to your preference.
+
+![ModifyPlane3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/86761c6c-07f4-4225-abca-2f1ca9ec1128)
+
+Description: While pressing Command + D at the same time, select the four corners of the plane. In the ProBuilder Window, select "Delete Faces". This will delete the selected corners, making are plane look por pyramid-like.
+
+3.3 Create Pyramid Stairs 
+3.4 
