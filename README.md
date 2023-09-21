@@ -48,5 +48,9 @@ Final Result:
 <img width="1440" alt="PyramidFinalProduct" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1d99050c-240a-4dd0-aacf-389b71ce3a5f">
 
 --- Huts Creation ---
+We will create 2 huts using the ProBuilder Tool to sit on top of the pyramid.
+![CreateHut](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4b4afc4c-f450-45f6-97c7-47bc457b1a08)
+
+Description: Open the ProBuilder Window and create a "New Shape". In this case we will create a cube. 
 
 
