@@ -29,10 +29,13 @@ Description: Now in the Probuilder menu at the top of the screen, we will select
 
 Description: While pressing Command + D at the same time, select the four corners of the plane. In the ProBuilder Window, select "Delete Faces". This will delete the selected corners, making are plane look por pyramid-like.
 
-3.3 Create Pyramid Stairs 
+3.3 Create Pyramid Ramp 
 ![ModifyRamp](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/f40e98c8-bae7-44e9-b9b7-0c217443ef53)
 
 Description: In this step we will create the stairs of our pyramid using a Prism shape. In the ProBuilder Window, select "New Shape", in the Create Shape panel you will find the Prism Shape at the end of th first row of shapes. Make sure that the "Height Cuts" and "Width Cuts" are set to 2 in the Panel Settings. Once you select the Prism, repeat the drag method to create the Prism inside the Scene.
 
-3.4 Editing Pyramid Stairs
+3.4 Editing Pyramid Ramp
+![ModifyRamp2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/28c4d3b7-fece-4078-88c2-1a9561ea3fa9)
+
+Description: With the Vertices option we will select the two points in the two points in the bottom of the Prism and drag the down to level the bottom of the ramp with the floor.
 
