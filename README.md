@@ -48,9 +48,23 @@ Final Result:
 <img width="1440" alt="PyramidFinalProduct" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1d99050c-240a-4dd0-aacf-389b71ce3a5f">
 
 --- Huts Creation ---
+Part 4 Creating Huts
+4.1 Create Cube using ProBuilder
 We will create 2 huts using the ProBuilder Tool to sit on top of the pyramid.
 ![CreateHut](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4b4afc4c-f450-45f6-97c7-47bc457b1a08)
 
-Description: Open the ProBuilder Window and create a "New Shape". In this case we will create a cube. 
+Description: Open the ProBuilder Window and create a "New Shape". In this case we will create a cube. Drag to the size of your preference in width and height for your cube.
+
+4.2 Subdivide Faces
+![ModifyHut](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/dd6990d4-c693-40ba-90d6-263a684e1828)
+
+Description: Select every face(side) of your cube and press on "Subdivide Faces" in the ProBuilder Window until you have 16(4x4) squares per face. This will allow us to move squares individually or multiple squares at the same time, which facilitates us in a sense of making our cuts and edits more detailed.
+
+4.3 Creating an opening in the front of our Hut
+
+![ModifyHut2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4ff6e888-7bf2-4dcd-9dfe-8fc120ae0513)
+Description: Select the four squares in the front face of the cube and select "Extrude Faces" in the ProBuilder Window. After selecting "Extrude Faces", use the Move tool to push inward those four select squares, creating and entrance in our huts.
+
+
 
 
