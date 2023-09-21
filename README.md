@@ -63,7 +63,7 @@ Description: Select every face(side) of your cube and press on "Subdivide Faces"
 4.3 Creating an opening in the front of our Hut
 
 ![ModifyHut2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4ff6e888-7bf2-4dcd-9dfe-8fc120ae0513)
-Description: Select the four squares in the front face of the cube and select "Extrude Faces" in the ProBuilder Window. After selecting "Extrude Faces", use the Move tool to push inward those four select squares, creating and entrance in our huts.
+Description: Select the four squares in the front face of the cube and select "Extrude Faces" in the ProBuilder Window. After selecting "Extrude Faces", use the Move tool to push inward those four selected squares, creating and entrance in our huts.
 
 
 
