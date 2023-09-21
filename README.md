@@ -39,6 +39,7 @@ Description: In this step we will create the stairs of our pyramid using a Prism
 
 Description: With the Vertices option we will select the two points in the two points in the bottom of the Prism and drag the down to level the bottom of the ramp with the floor.
 
+![ModifyRamp3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/9980485a-d5eb-442b-bec4-4f7d66588eef)
 Description: To culminate with the ramp, select the all of the bottom vertices and level them with pyramid's base.
 
 Final Result:
