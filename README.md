@@ -65,6 +65,12 @@ Description: Select every face(side) of your cube and press on "Subdivide Faces"
 ![ModifyHut2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4ff6e888-7bf2-4dcd-9dfe-8fc120ae0513)
 Description: Select the four squares in the front face of the cube and select "Extrude Faces" in the ProBuilder Window. After selecting "Extrude Faces", use the Move tool to push inward those four selected squares, creating and entrance in our huts.
 
+4.4 Modidying roof of Hut
+![ModifyHut3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/04268ec2-ec92-4860-af61-56b2de1c9339) ![ModifyHut4](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/de46a39c-c3c0-4911-997f-2e6f92f8a5cf)
+
+
+Description: Using the Vertix tool, select the vertices you wish and experiment with moving them until you feel satisfied with the shape of your hut. 
+
 
 
 
