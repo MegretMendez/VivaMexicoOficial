@@ -1,4 +1,4 @@
-![ModifyWalls](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/b3ce6364-9ee9-4d53-abea-1734d0fb3e7c)# VivaMexicoOficial
+# VivaMexicoOficial
 
 Viva Mexico! 
 Part 1: Intro a ProBuilder 
