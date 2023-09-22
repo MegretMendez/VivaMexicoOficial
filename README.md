@@ -72,11 +72,11 @@ Description: Select the four squares in the front face of the cube and select "E
 Description: Using the Vertex tool, select the vertices you wish and experiment with moving them until you feel satisfied with the shape of your hut. 
 
 4.5 Adding Texture to Hut
-Description: To make our hut more realistic we will add some walls and roofs imported from packages from the Unity Asset Store. we will use the model of our hut that we created to align the walls in such way that they are all symmetrical.
 
-![ModifyWalls](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/6522c196-34e1-4688-889c-3297fc67e7f4)
+![ModifyWalls2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1c2e13f9-7076-45e1-b71d-deecbcd206c9)
+Description: To make our hut more realistic we will add some colors and textures to make our hut more realistic. To add a color, first create a color. Second, while pressing Command+D select the faces you want to color. After selecting the faces, drag the color the faces selected.
 
-Description: FIrst add the wall onto the project from the pack that you imported. modify the shape and size equal to the model of our hut. Move the wall as close as possible to the model of the hut. To properly align the wall to the hut, select a vertex of the wall, while pressing the V key drag the vertex you selected to the wall, this will result in the wall being aligned with the 
+
 
 
 
