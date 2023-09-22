@@ -79,7 +79,13 @@ Description: To make our hut more realistic we will add some colors and textures
 4.6 Finishing Touches
 <img width="881" alt="PyramidCharacter" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/755570d0-acca-4e17-af20-b62cdedc66e5">
 
-Description: With an exported pack from Unity AssetStore, we added a character to add some life in to our scene
+Description: With an exported pack from Unity AssetStore, we added a character to add some life in to our scene.
+
+
+
+Storyline: Once a feared Aztec dictator, Xochitl had reveled in his power and opulence, ruling with an iron fist from the summit of his grand pyramid. However, fate had other plans. A swift rebellion led by his closest advisors left him exiled, stripped of his throne and riches. Determined to reclaim his lost glory, Xochitl ventured into the wilderness, where he embarked on a journey of redemption. With the relentless spirit of a conqueror still burning within him, he laid the foundation of his own community, starting with a humble pyramid at its heart. 
+
+Over time, this pyramid became a symbol of hope, unity, and rebirth for the people who had chosen to follow him. Xochitl traded the cruelty of his past for benevolence, and his community flourished under his wise and just leadership. The once-exiled dictator had not only built a new empire but had also discovered the true power of redemption and compassion, forever leaving behind the tyrant he once was.
 
 
 
