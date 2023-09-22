@@ -76,6 +76,12 @@ Description: Using the Vertex tool, select the vertices you wish and experiment 
 ![ModifyWalls2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1c2e13f9-7076-45e1-b71d-deecbcd206c9)
 Description: To make our hut more realistic we will add some colors and textures to make our hut more realistic. To add a color, first create a color. Second, while pressing Command+D select the faces you want to color. After selecting the faces, drag the color the faces selected.
 
+4.6 Finishing Touches
+<img width="881" alt="PyramidCharacter" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/755570d0-acca-4e17-af20-b62cdedc66e5">
+
+Description: With an exported pack from Unity AssetStore, we added a character to add some life in to our scene
+
+
 
 
 
