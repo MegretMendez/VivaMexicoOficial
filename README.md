@@ -45,7 +45,7 @@ Description: With the Vertices option we will select the two points in the two p
 Description: To culminate with the ramp, select the all of the bottom vertices and level them with pyramid's base.
 
 3.5 Creating materials to color Piramid!
-![ModifyingColor]("https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/709e5863-c3d8-4f20-bab5-591daec15f53")
+![ModifyingColor](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/709e5863-c3d8-4f20-bab5-591daec15f53)
 Description: In the Assets folder look for the Material folder once you’re in said folder right click in it and in the pop menu it show click on Create->Material. Once the material is created, you will see the configurations of the materials where you can add colors where it says “Surface inputs” as shown in the video clip.
 
 Final Result:
