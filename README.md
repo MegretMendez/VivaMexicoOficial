@@ -90,11 +90,11 @@ Description: With an exported pack from Unity AssetStore, we added a character t
 -- Terrain Creation --
 Part 5 Creating and editing the Terrain
 
-Part 5.1 Creating the Terrain
+5.1 Creating the Terrain
 ![CreatingTerrain1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5195aa6f-0a5a-45d6-9dce-7574db768121)
 Description: To Crete the Terrain go to the top of the screen and click on GameObject->3D Object->Terrain
 
-Part 5.2 Editing the Terrain
+5.2 Editing the Terrain
 
 ![EditingTerrain1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1ae3d6e5-91bf-448a-aa37-42a097d02fe5)
 
@@ -107,6 +107,9 @@ Description: Once you click on "Raise or Lower Terrain" you can create mountains
 
 <img width="1440" alt="Foto 2" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/155e1538-16a3-4331-98d4-3747f3e2507a">
 Description: After applying all configurations and following the instructions, feel free to unleash your creativity.
+
+5.3 Importing Textures to the Project
+
 
 
 Storyline: Once a feared Aztec dictator, Xochitl had reveled in his power and opulence, ruling with an iron fist from the summit of his grand pyramid. However, fate had other plans. A swift rebellion led by his closest advisors left him exiled, stripped of his throne and riches. Determined to reclaim his lost glory, Xochitl ventured into the wilderness, where he embarked on a journey of redemption. With the relentless spirit of a conqueror still burning within him, he laid the foundation of his own community, starting with a humble pyramid at its heart. 
