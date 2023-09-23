@@ -45,6 +45,7 @@ Description: With the Vertices option we will select the two points in the two p
 Description: To culminate with the ramp, select the all of the bottom vertices and level them with pyramid's base.
 
 3.5 Creating materials to color Piramid!
+
 ![ModifyColor1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/7913d262-eff8-4abf-a587-a7701b1c2a2e)
 ![ModifyColor1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/3f85a910-5a17-4872-a754-1079e03ef456)
 Description: In the Assets folder look for the Material folder once you’re in said folder right click in it and in the pop menu it show click on Create->Material. Once the material is created, you will see the configurations of the materials where you can add colors where it says “Surface inputs” as shown in the video clip.
@@ -88,6 +89,7 @@ Description: To make our hut more realistic we will add some colors and textures
 Description: With an exported pack from Unity AssetStore, we added a character to add some life in to our scene.
 
 -- Terrain Creation --
+
 Part 5 Creating and editing the Terrain
 
 5.1 Creating the Terrain
@@ -110,6 +112,45 @@ Description: After applying all configurations and following the instructions, f
 
 5.3 Importing Textures to the Project
 
+![ImportingTextures1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5eb52a6d-ceab-4d51-b925-92fdf11e64e3)
+![ImportingTextures2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/9a25f7db-8b01-4f3a-81d7-7ceb4fcd1768)
+
+<img width="1440" alt="6 1" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/d52896fa-2d20-475a-a8e2-288eaae3993b">
+
+<img width="1440" alt="6 2" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/96147f37-f7b3-4a2d-9261-41d07593d35c">
+<img width="1440" alt="6 3" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/f4955941-d69d-4c53-8e04-45bb7b231541">
+<img width="1440" alt="6 4" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/7b2a7c9f-937f-4e13-9687-5f81e479fb99">
+<img width="1440" alt="6 5" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/3edfdac9-db4c-4f57-b4b8-73594c0c6bb2">
+Description: To add textures we will need to first import them, this will be done by clicking on Window(on the top of the page)->Asset Store->Search online. Once in the asset store we will search for a good “Free” outdoor pack. For this project we used the one called “Outdoor Ground Textures”.
+
+5.4 Importing to assets folder
+<img width="1440" alt="7 1" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/cc616b83-d716-4be6-a831-ff5529e2838e">
+<img width="1440" alt="7 2" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/27bf08b6-b0d8-4c2b-b6aa-7c74dea55394">
+<img width="1440" alt="7 3" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/9d170323-d9b9-42b3-9b17-ebcb97d593a8">
+![ImportingTextures1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/3edd276d-a838-4b72-8251-8cd8adf5aa92)
+Description: Then click of the texture pack of your choice and click on “Add to My Assets”->”Accept” (Terms & Service)-> Open in Unity-> Download->Import->Import. he "Outdoor Ground Textures" package should appear in the Assets folder.
+
+5.5 Adding Textures to the Terrain
+<img width="1440" alt="8 1" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/57e8a096-c812-41c3-a4d2-0ee0d161f80c">
+![ImportingTextures1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/e93aa21d-7567-4720-a313-7ac1692f0718)
+Description: Click on the Terrain and go to the “Inspector” the right part of your screen and click “Paint Terrain” then under that there is a drop down  menu, click it and pick “Paint Texture” then in Terrain Layers click on “Edit Terrain Layers…”->Create Layer…”-> choose the texture of your liking by double clicking from the Texture pack that you imported.
+
+5.6 Increasing size of texture for more definition in texture
+<img width="1440" alt="9" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/a748d99f-70cf-4dea-a077-dedc94a6ade8">
+Description: To give more definition to the Texture we will go to “Tilling Settings” then go to “Size” and change the “X” and “Y” to 100.
+
+5.7 Adding Second Texture
+<img width="1440" alt="10 1" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/82f4d2ef-414e-4d67-984b-cc5b7cc85e08">
+<img width="1440" alt="10 2" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/404062cc-09b2-477a-ba3c-a95f2f393c7e">
+<img width="1440" alt="10 3" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/23af4892-a94b-4c73-99e8-ec431ec5f425">
+Description: Add second texture with same specifications.
+
+
+![AddingSecondLayer](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5adb30a5-96a2-40c6-9b8f-76e70906e86b)
+Description: We will use the second layer that resembles mud, since the terrain around the pyramid of the Templo Mayor was muddy with grass.
+
+After all instructions are followed this is our Final Result:
+<img width="1440" alt="Foto 4" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/e6957e2b-095e-4e54-beb5-2d4c9b5dacc6">
 
 
 Storyline: Once a feared Aztec dictator, Xochitl had reveled in his power and opulence, ruling with an iron fist from the summit of his grand pyramid. However, fate had other plans. A swift rebellion led by his closest advisors left him exiled, stripped of his throne and riches. Determined to reclaim his lost glory, Xochitl ventured into the wilderness, where he embarked on a journey of redemption. With the relentless spirit of a conqueror still burning within him, he laid the foundation of his own community, starting with a humble pyramid at its heart. 
