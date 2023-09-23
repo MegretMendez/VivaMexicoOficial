@@ -45,7 +45,8 @@ Description: With the Vertices option we will select the two points in the two p
 Description: To culminate with the ramp, select the all of the bottom vertices and level them with pyramid's base.
 
 3.5 Creating materials to color Piramid!
-![ModifyingColor](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/709e5863-c3d8-4f20-bab5-591daec15f53)
+![ModifyColor1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/7913d262-eff8-4abf-a587-a7701b1c2a2e)
+![ModifyColor1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/3f85a910-5a17-4872-a754-1079e03ef456)
 Description: In the Assets folder look for the Material folder once you’re in said folder right click in it and in the pop menu it show click on Create->Material. Once the material is created, you will see the configurations of the materials where you can add colors where it says “Surface inputs” as shown in the video clip.
 
 Final Result:
@@ -86,6 +87,26 @@ Description: To make our hut more realistic we will add some colors and textures
 
 Description: With an exported pack from Unity AssetStore, we added a character to add some life in to our scene.
 
+-- Terrain Creation --
+Part 5 Creating and editing the Terrain
+
+Part 5.1 Creating the Terrain
+![CreatingTerrain1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5195aa6f-0a5a-45d6-9dce-7574db768121)
+Description: To Crete the Terrain go to the top of the screen and click on GameObject->3D Object->Terrain
+
+Part 5.2 Editing the Terrain
+
+![EditingTerrain1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1ae3d6e5-91bf-448a-aa37-42a097d02fe5)
+
+<img width="1440" alt="Foto5" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/6e42cc8c-f125-4556-b2e9-5bc27d087e61">
+Description: Now let’s increase the height of the terrain so that we can lower terrain to create rivers, lagoons, etc.
+
+![EditingTerrain2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1142a72d-d985-4fc9-b62b-9b718e453e8f)
+![EditingTerrain3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/41657ccb-74dd-4c5b-a882-973549b92ac7)
+Description: Once you click on "Raise or Lower Terrain" you can create mountains, hills, etc. by pressing the left click on the Terrain. Then to make rivers, caves, lagoons, etc. hold shift and left click to lower the Terrain.
+
+<img width="1440" alt="Foto 2" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/155e1538-16a3-4331-98d4-3747f3e2507a">
+Description: After applying all configurations and following the instructions, feel free to unleash your creativity.
 
 
 Storyline: Once a feared Aztec dictator, Xochitl had reveled in his power and opulence, ruling with an iron fist from the summit of his grand pyramid. However, fate had other plans. A swift rebellion led by his closest advisors left him exiled, stripped of his throne and riches. Determined to reclaim his lost glory, Xochitl ventured into the wilderness, where he embarked on a journey of redemption. With the relentless spirit of a conqueror still burning within him, he laid the foundation of his own community, starting with a humble pyramid at its heart. 
