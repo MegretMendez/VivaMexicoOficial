@@ -44,8 +44,13 @@ Description: With the Vertices option we will select the two points in the two p
 ![ModifyRamp3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/9980485a-d5eb-442b-bec4-4f7d66588eef)
 Description: To culminate with the ramp, select the all of the bottom vertices and level them with pyramid's base.
 
+3.5 Creating materials to color Piramid!
+![ModifyingColor]("https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/709e5863-c3d8-4f20-bab5-591daec15f53")
+Description: In the Assets folder look for the Material folder once you’re in said folder right click in it and in the pop menu it show click on Create->Material. Once the material is created, you will see the configurations of the materials where you can add colors where it says “Surface inputs” as shown in the video clip.
+
 Final Result:
-<img width="1440" alt="PyramidFinalProduct" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1d99050c-240a-4dd0-aacf-389b71ce3a5f">
+<img width="1440" alt="Foto1" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/9b7f5120-111e-4465-9370-b0b23a279797">
+Description: After the desired materials are done you can customize the objects/structures that you created. As a result the pyramid is complete.
 
 --- Huts Creation ---
 Part 4 Creating Huts
