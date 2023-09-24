@@ -58,33 +58,33 @@ Description: After the desired materials are done you can customize the objects/
 Part 4 Creating Huts
 4.1 Create Cube using ProBuilder
 We will create 2 huts using the ProBuilder Tool to sit on top of the pyramid.
-![CreateHut](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4b4afc4c-f450-45f6-97c7-47bc457b1a08)
+![CreateHut](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/ddaa4c54-f6fa-4943-ae2a-249d4e14d605)
 
 Description: Open the ProBuilder Window and create a "New Shape". In this case we will create a cube. Drag to the size of your preference in width and height for your cube.
 
 4.2 Subdivide Faces
-![ModifyHut](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/dd6990d4-c693-40ba-90d6-263a684e1828)
+![ModifyHut](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4538377f-ad2f-4024-8f61-957f0420dc55)
 
 Description: Select every face(side) of your cube and press on "Subdivide Faces" in the ProBuilder Window until you have 16(4x4) squares per face. This will allow us to move squares individually or multiple squares at the same time, which facilitates us in a sense of making our cuts and edits more detailed.
 
 4.3 Creating an opening in the front of our Hut
+![ModifyHut2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5ffe6dad-06c6-4b35-953e-18246a3d7fea)
 
-![ModifyHut2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4ff6e888-7bf2-4dcd-9dfe-8fc120ae0513)
 Description: Select the four squares in the front face of the cube and select "Extrude Faces" in the ProBuilder Window. After selecting "Extrude Faces", use the Move tool to push inward those four selected squares, creating and entrance in our huts.
 
 4.4 Modidying roof of Hut
-![ModifyHut3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/04268ec2-ec92-4860-af61-56b2de1c9339) ![ModifyHut4](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/de46a39c-c3c0-4911-997f-2e6f92f8a5cf)
-
+![ModifyHut3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/99ade8cd-4462-41a3-84a8-636abefcdb31)
+![ModifyHut4](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/ad643242-1987-48d7-8b26-a43ac2b59b95)
 
 Description: Using the Vertex tool, select the vertices you wish and experiment with moving them until you feel satisfied with the shape of your hut. 
 
 4.5 Adding Texture to Hut
 
-![ModifyWalls2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1c2e13f9-7076-45e1-b71d-deecbcd206c9)
+![ModifyWalls2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5fb555c0-81b7-4be1-ac1a-867517968e5d)
 Description: To make our hut more realistic we will add some colors and textures to make our hut more realistic. To add a color, first create a color. Second, while pressing Command+D select the faces you want to color. After selecting the faces, drag the color the faces selected.
 
 4.6 Finishing Touches
-<img width="881" alt="PyramidCharacter" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/755570d0-acca-4e17-af20-b62cdedc66e5">
+<img width="881" alt="PyramidCharacter" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4380d15b-9fba-4e88-95b3-b60dcfa8845e">
 
 Description: With an exported pack from Unity AssetStore, we added a character to add some life in to our scene.
 
