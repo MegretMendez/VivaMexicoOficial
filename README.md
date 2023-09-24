@@ -2,7 +2,7 @@
 
 Viva Mexico! 
 Part 1: Intro a ProBuilder 
-![IntroProbuilder](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/61b8b933-0191-4c0c-a1c3-d6879ebade8e)
+![IntroProbuilder](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/b75948be-5a88-4881-9c65-0f491c472913)
 
 Description: In the menu at the top of your screen select Tools->ProBuilder->ProBuilder Window. A pop up window should appear on your screen. This is the ProBuilder Window. The ProBuilder tool is useful for more detail-oriented editing.
 
