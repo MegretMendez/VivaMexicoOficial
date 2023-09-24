@@ -9,18 +9,18 @@ Description: In the menu at the top of your screen select Tools->ProBuilder->Pro
 --- Pyramid Creation ---
 
 Part 2: Create a Plane using the ProBuilder Tool 
-![CreatePlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4c0f476a-8317-4afd-8205-f13f4759a4ad)
+![CreatePlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4cc39f43-e198-4eb2-bd96-9e7c4f33b872)
 
 Description: In the ProBuilder Window select "New Shape", and a Shape panel with advanced 3D shapes should appear. In this panel select the plane icon. Then with your mouse you can drag to create the plane to your desired measures. Change the "Height Cuts" and 'Width Cuts" to 2 in the Plane Settings. 
 
 Part 3: Mold the plane using ProBuilder Tool
 
 3.1 Modify base of our Pyramid
-![ModifyPlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/db88454c-3770-4f4e-9746-903ea50369ed)
+![ModifyPlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5beb7327-559b-4b3a-9082-784262ad9ff0)
 
 Description: To modify the base of our pyramid we are going to the second option of the ProBuilder horizontal menu in the top of our screeen. With this option we will select the vertices of the lines on the plane and drag them towards the corners. We will do this with all of the lines.
 Aftert completing all sides, your plane should look like this: 
-![ModifyPlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/4412aa22-5c11-49ea-ae76-105da5417271)
+![ModifyPlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/dc4d4877-18a3-4bb6-8084-af8e231a2b7c)
 
 3.2 Editing faces
 ![ModifyPlane2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/cb655ec2-7a17-4bcb-b4cc-011b0a494239)
