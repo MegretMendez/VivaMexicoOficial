@@ -23,11 +23,11 @@ Aftert completing all sides, your plane should look like this:
 ![ModifyPlane](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/dc4d4877-18a3-4bb6-8084-af8e231a2b7c)
 
 3.2 Editing faces
-![ModifyPlane2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/cb655ec2-7a17-4bcb-b4cc-011b0a494239)
+![ModifyPlane2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/e7123013-8b2b-44b2-bdc3-49ec6bd4aa0a)
 
 Description: Now in the Probuilder menu at the top of the screen, we will select the las option, the Faces option. This option allows us to individually or simultaneously edit the faces of our plane. While pressing Command + D at the same time select all of the borders of the plane and select "Extrude Faces" in the ProBuilder Window. This enlarges the entire plane. Using the scale tool you can change the height of the plane to your preference.
 
-![ModifyPlane3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/86761c6c-07f4-4225-abca-2f1ca9ec1128)
+![ModifyPlane3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/a176f688-334f-4f56-9ea7-1aa3c46b89a6)
 
 Description: While pressing Command + D at the same time, select the four corners of the plane. In the ProBuilder Window, select "Delete Faces". This will delete the selected corners, making are plane look por pyramid-like.
 
