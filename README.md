@@ -44,7 +44,7 @@ Description: With the Vertices option we will select the two points in the two p
 ![ModifyRamp3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/f6bf78a4-0586-42e6-a2fe-8ec785ba9650)
 Description: To culminate with the ramp, select the all of the bottom vertices and level them with pyramid's base.
 
-3.5 Creating materials to color Piramid!
+3.5 Creating materials to color Pyramid!
 
 ![ModifyColor1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/7913d262-eff8-4abf-a587-a7701b1c2a2e)
 ![ModifyColor2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/3f85a910-5a17-4872-a754-1079e03ef456)
