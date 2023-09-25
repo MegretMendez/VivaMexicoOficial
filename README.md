@@ -94,18 +94,18 @@ Description: With an exported pack from Unity AssetStore, we added a character t
 Part 5 Creating and editing the Terrain
 
 5.1 Creating the Terrain
-![CreatingTerrain1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5195aa6f-0a5a-45d6-9dce-7574db768121)
+![CreatingTerrain1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/f1dba5e8-e4d0-4ada-9e57-9cd3f2efd2cd)
 Description: To Crete the Terrain go to the top of the screen and click on GameObject->3D Object->Terrain
 
 5.2 Editing the Terrain
 
-![EditingTerrain1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1ae3d6e5-91bf-448a-aa37-42a097d02fe5)
+![EditingTerrain2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/fc16b8a3-2627-4f42-971e-783e4a495ae4)
 
-<img width="1440" alt="Foto5" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/6e42cc8c-f125-4556-b2e9-5bc27d087e61">
+<img width="1440" alt="Foto 2" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/e759de48-c807-4c1e-8988-91a950ed6cac">
 Description: Now let’s increase the height of the terrain so that we can lower terrain to create rivers, lagoons, etc.
 
-![EditingTerrain2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/1142a72d-d985-4fc9-b62b-9b718e453e8f)
-![EditingTerrain3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/41657ccb-74dd-4c5b-a882-973549b92ac7)
+![EditingTerrain3](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/80d6072e-5f5c-4b93-91f0-1576e0652e42)
+![EditingTerrain4](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/c7ccc23a-943b-4e94-bdda-fec7b155299d)
 Description: Once you click on "Raise or Lower Terrain" you can create mountains, hills, etc. by pressing the left click on the Terrain. Then to make rivers, caves, lagoons, etc. hold shift and left click to lower the Terrain.
 
 <img width="1440" alt="Foto 2" src="https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/155e1538-16a3-4331-98d4-3747f3e2507a">
