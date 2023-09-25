@@ -47,8 +47,8 @@ Description: To culminate with the ramp, select the all of the bottom vertices a
 3.5 Creating materials to color Pyramid!
 
 
-![ModifyColor1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/5604cea8-3674-4fe6-bd50-b6fd22d3be97)
-![ModifyColor2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/fe528a64-df48-43e9-9a48-a79aa3127ba9)
+![ModifyColor1](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/80ab6e0a-8425-4475-8fd3-ed14a7aac225)
+![ModifyColor2](https://github.com/MegretMendez/VivaMexicoOficial/assets/142510070/202cf80b-0b69-4220-9bc0-a0381f529ee4)
 Description: In the Assets folder look for the Material folder once you’re in said folder right click in it and in the pop menu it show click on Create->Material. Once the material is created, you will see the configurations of the materials where you can add colors where it says “Surface inputs” as shown in the video clip.
 
 Final Result:
